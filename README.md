@@ -23,11 +23,6 @@ generation and stress conditions, supporting scenario-based resilience analysis.
 - `notebooks/`: Jupyter notebook implementing the prototype
 - `outputs/`: Example simulation outputs
 
-## How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-
 
 ## Example Output
 The figure below shows the simulated behaviour of renewable generation, system demand,
