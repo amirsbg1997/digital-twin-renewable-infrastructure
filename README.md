@@ -27,3 +27,8 @@ generation and stress conditions, supporting scenario-based resilience analysis.
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+## Example Output
+The figure below shows the simulated behaviour of renewable generation, system demand,
+and storage response within the digital twin prototype.
+
+![Digital Twin Simulation Output](outputs/example_results.png)
